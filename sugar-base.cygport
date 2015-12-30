@@ -2,7 +2,7 @@ inherit pygtk
 
 NAME="sugar-base"
 VERSION=0.98.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Sugar"
 SUMMARY="Sugar Desktop base module"
 DESCRIPTION="The award-winning Sugar Learning Platform promotes
